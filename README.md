@@ -6,6 +6,7 @@
 
 ## TODO-uri:
 
+1) nume mai bune pt packageuri ...
 1) Mai adaugam lintere? daca da care
 1) Trebuie cumva sa realizam un script (sh sau/si powershell/bat etc) care sa compileza aplicatia
 in asa fel incat sa o construiasca pipeline-ul de la gitlab (intr-un container docker (sper) in asa
